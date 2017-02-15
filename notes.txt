@@ -1,0 +1,9 @@
+include the following scripts before googleApi script
+json-sans-eval-min.js
+jsrsasign-4.1.4-all-min
+jws-3.1
+
+then 
+googleApi
+get the Client GA:ID 
+and the private key : from goole service accounts
